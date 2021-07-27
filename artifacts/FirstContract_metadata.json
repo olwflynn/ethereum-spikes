@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.4+commit.c7e474f2"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getInteger",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"FirstContract.sol": "FirstContract"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"FirstContract.sol": {
+			"keccak256": "0xd6578f216d9155da167df325b58acbbdc2ba4a1b96eff5d2659cd9631a1db517",
+			"urls": [
+				"bzz-raw://a2ef8885088458318a1ccc5508630466f5a053c1df8a001407fada4fcd848c7c",
+				"dweb:/ipfs/QmTovuaaugbQyugDXYEQidTvfeMAGo2rY5V7KMnSBtJtCY"
+			]
+		}
+	},
+	"version": 1
+}
